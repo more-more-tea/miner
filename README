@@ -4,7 +4,7 @@ This is a CLI based miner game implemented with lib `ncursers`.
 
 Before start the game, you decide the scale(SMALL, MEDIATE, and LARGE).
 
-You move the cursor with h(left), j(up), k(down), and l(right) or arrow keys.
+You move the cursor with h(left), j(down), k(up), and l(right) or arrow keys.
 (Familiar? Yep, the author is also a VIMer).
 
 Also use d(dig), m(mark) and f(flag) to play the game.
